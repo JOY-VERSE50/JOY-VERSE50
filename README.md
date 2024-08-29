@@ -1,16 +1,31 @@
-## Hi there 👋
+ <h1 align="center">Hi, I'm Parves Joy</h1>
 
-<!--
-**JOY-VERSE50/JOY-VERSE50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying
+- 🌱 I’m currently learning Python 
+- 💬 Ask me anything about Termux 
+- 📫 How to reach me: urjoybabe10@gmail.com
+- ⚡ Fun fact: I'm at my last teen
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/JOY-VERSE50">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+  
+  
+ <a href="https://www.instagram.com/parves__joy">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="https://fb.com/princeparvesjoy">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+   
+ 
+ 
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<br>
+⭐️ From [JOY-VERSE50](https://github.com/JOY-VERSE50)
